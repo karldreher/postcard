@@ -1,0 +1,19 @@
+.lw { font-size: 60px; }
+#postcard {
+  width: 80%;
+
+  
+}
+.image {
+  width: 100%;
+}
+
+.stamp {
+  width:  20%;
+  position: relative;
+  padding-left: 80%;
+  top: 100px;
+
+
+  
+}
